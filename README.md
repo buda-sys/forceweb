@@ -1,4 +1,4 @@
-# forceweb 🔐
+# forceweb 
 
 > Web Login Brute Forcer — written in Rust
 
