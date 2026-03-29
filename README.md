@@ -85,6 +85,15 @@ wordlist → POST /login → response contains --fail? → no: password found �
 
 This tool is intended for **ethical pentesting and controlled environments** (CTFs, labs, systems you own). Only use it against systems you have explicit permission to test. The author is not responsible for any misuse.
 
+## License
+
+MIT License — Copyright (c) 2026 **buda-sys**
+
+Permission is granted to use, copy, modify and distribute this software freely,
+as long as the original author credit is maintained.
+
+See the [LICENSE](LICENSE) file for details.
+
 
 ## Author
 
