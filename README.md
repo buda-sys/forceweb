@@ -14,8 +14,6 @@
         Web Login Brute Forcer | by buda-sys
 ```
 
-![demo](assets/demo.png)
-
 
 ## What is it?
 
@@ -70,6 +68,9 @@ Binary will be at `target/release/forceweb`.
 [+] User:     admin
 [+] Password: letmein123
 ```
+
+<img width="928" height="472" alt="ng6" src="https://github.com/user-attachments/assets/64f31968-3520-46c5-bd0c-18b9dee52f20" />
+
 
 
 ## How it works
